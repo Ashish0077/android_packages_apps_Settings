@@ -93,6 +93,9 @@
     <!-- Xiaomi Devices -->
     <string name="device_xiaomi_red">Xiaomi Redmi 1S</string>
     <string name="device_xiaomi_red_summary">armani \nMaintainer - Nitinkumar Chobhe</string>
+    
+    <string name="device_xiaomi_kenzo">Xiaomi Redmi Note3 (SnapDragon)</string>
+    <string name="device_xiaomi_red_summary">kenzo \nMaintainer - Ashish Arora</string>
 
     <!-- YU Devices -->
     <string name="device_yu_lettuce">Yu Yuphoria</string>
