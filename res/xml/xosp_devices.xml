@@ -227,6 +227,13 @@
                  android:title="@string/device_xiaomi_red"
                  android:summary="@string/device_xiaomi_red_summary"
                  android:selectable="false" />
+                 
+                 <Preference
+                 android:key="device_xiaomi_kenzo"
+                 android:icon="@drawable/ic_xosp_device_tint"
+                 android:title="@string/device_xiaomi_kenzo"
+                 android:summary="@string/device_xiaomi_kenzo_summary"
+                 android:selectable="false" />
 
         </PreferenceCategory>
 
